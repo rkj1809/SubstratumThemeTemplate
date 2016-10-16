@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "com.RKJDARK.theme"
+        applicationId "com.RKJ.Blacked"
         minSdkVersion 23
         targetSdkVersion 24
         versionCode 1
